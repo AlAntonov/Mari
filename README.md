@@ -1,1 +1,1 @@
-# Mari
+# Mari-Russian Machine Translation
